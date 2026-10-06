@@ -1,8 +1,8 @@
 # Ledgerly
 
-> **Deliberately insecure.** Ledgerly is a small app written to be reviewed by
-> [CyberReasoner](https://github.com/bineric-labs), an AI security reviewer. It contains security
-> weaknesses on purpose. **Do not deploy it or reuse its code.**
+> **This is a demo repository.** Ledgerly is a small app written to show
+> [CyberReasoner](https://github.com/bineric-labs), an AI security reviewer, at work. It contains
+> security weaknesses on purpose. **Do not deploy it or reuse its code.**
 
 Ledgerly keeps invoices and receipts for small teams: sign in by email, list and search your team's
 invoices, download receipts, and edit your profile.
