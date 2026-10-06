@@ -1,6 +1,6 @@
-# Ledgerly (demo target)
+# Ledgerly
 
-> **Deliberately insecure.** Ledgerly is a small demo app written to be reviewed by
+> **Deliberately insecure.** Ledgerly is a small app written to be reviewed by
 > [CyberReasoner](https://github.com/bineric-labs), an AI security reviewer. It contains security
 > weaknesses on purpose. **Do not deploy it or reuse its code.**
 
